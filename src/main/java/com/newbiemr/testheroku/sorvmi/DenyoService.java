@@ -7,7 +7,7 @@ public class DenyoService {
 	
 	
 	public String sayHi() {
-		return "hi-yraam";
+		return "abibenis1k";
 	}
 
 }
